@@ -1,0 +1,5 @@
+name: PerfOptimizer
+main: com.myplugin.perfoptimizer.PerfOptimizer
+version: 1.0
+api-version: 1.13
+description: Plugin tự động tăng hiệu suất server bằng cách sử dụng tối đa CPU.
